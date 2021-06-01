@@ -1,0 +1,18 @@
+Package: sestutil
+Type: Package
+Title: Util functions from sest!
+Version: 0.1.0
+Date: 2021-06-01
+Author: Sebastian Stadler
+Maintainer: Your Name <your@email.com>
+Description: One paragraph description of what the package
+      does as one or more full sentences.
+License: GPL (>= 2)
+Suggests: 
+    testthat (>= 3.0.0)
+Imports: 
+    magrittr,
+    ncdf4,
+    ggplot2
+RoxygenNote: 7.1.1
+Config/testthat/edition: 3
